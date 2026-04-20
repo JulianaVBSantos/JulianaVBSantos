@@ -1,4 +1,4 @@
-# 👩‍💻 Juliana V. B. Santos
+# Juliana V. B. Santos
 
 💼 IT Assistant | Systems & ERP
 🎓 Systems Analysis and Development Student
