@@ -28,8 +28,7 @@ Currently, I am developing my skills in backend development and automation, buil
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianaVBSantos&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaVBSantos&layout=compact&langs_count=8)
 ---
 
 ## 📌 Featured Projects
