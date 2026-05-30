@@ -22,8 +22,9 @@ Currently, I am developing my skills in backend development and automation, buil
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
----
+![Makefile](https://img.shields.io/badge/Makefile-lightgrey?style=for-the-badge\&logo=gnu-make)
+![CMake](https://img.shields.io/badge/CMake-brightgreen?style=for-the-badge\&logo=cmake)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
 
 ## 📊 GitHub Stats
 
@@ -40,6 +41,6 @@ Currently, I am developing my skills in backend development and automation, buil
 
 ## 📫 Contact
 
-🔗 GitHub: https://github.com/JulianaVBSantos
-🔗 E-mail: julianavieirabsantos@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/juliana-vieira-b-santos-181121241/
+🔗 GitHub: [https://github.com/JulianaVBSantos](https://github.com/JulianaVBSantos)
+🔗 E-mail: [julianavieirabsantos@gmail.com](mailto:julianavieirabsantos@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/juliana-vieira-b-santos-181121241/](https://www.linkedin.com/in/juliana-vieira-b-santos-181121241/)
