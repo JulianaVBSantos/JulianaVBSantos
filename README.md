@@ -34,7 +34,7 @@ Currently, I am developing my skills in backend development and automation, buil
 ## 📌 Featured Projects
 
 🔹 military-house-business-locator
-🔹 Automation scripts
+🔹 corporate-process-automation
 
 ---
 
