@@ -35,7 +35,7 @@ Currently, I am developing my skills in backend development and automation, buil
 
 🔹 military-house-business-locator
 🔹 corporate-process-automation
-🔹 Ícaros-Fit-Care
+🔹 Ícaros-FitCare
 
 ---
 
