@@ -1,7 +1,7 @@
 # Juliana Vieira B. Santos
 
-🎓 Systems Analysis and Development Student
-🚀 Focus on backend and automation
+🎓 Software Development | Systems & ERP | Process Automation | ADS Student
+🚀 Focus on backend, automation and IA
 
 ---
 
