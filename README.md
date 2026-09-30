@@ -1,6 +1,5 @@
 # Juliana Vieira B. Santos
 
-💼 IT Assistant | Systems & ERP
 🎓 Systems Analysis and Development Student
 🚀 Focus on backend and automation
 
@@ -18,6 +17,7 @@ Currently, I am developing my skills in backend development and automation, buil
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge\&logo=kotlin)
 ![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge\&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
